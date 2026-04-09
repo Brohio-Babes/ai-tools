@@ -1,0 +1,9 @@
+{
+  "name": "ai-tools",
+  "description": "Personal AI skills aggregator — consolidates agent-skills, graphify, and custom skills for use across all projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Schmidt"
+  },
+  "commands": "../.claude/commands"
+}
