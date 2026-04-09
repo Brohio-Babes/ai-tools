@@ -1,0 +1,6 @@
+[submodule "agent-skills"]
+	path = agent-skills
+	url = https://github.com/addyosmani/agent-skills
+[submodule "graphify"]
+	path = graphify
+	url = https://github.com/safishamsi/graphify
